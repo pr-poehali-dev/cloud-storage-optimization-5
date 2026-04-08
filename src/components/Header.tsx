@@ -33,7 +33,7 @@ export function Header() {
     >
       <nav className="container mx-auto px-6 flex items-center justify-between md:px-[24]">
         <a href="/" className="flex items-center gap-2 group" onClick={scrollToTop}>
-          <img src="https://cdn.poehali.dev/projects/bd50632a-f5bd-4499-8736-ab4bc6336af1/bucket/6b2be4d2-d68d-4a7e-baff-bdb4ab417815.png" alt="ГРАНЬ" className="w-auto h-10 rounded-md" style={{ backgroundColor: '#fed7aa', padding: '2px 6px' }} />
+          <img src="https://cdn.poehali.dev/projects/bd50632a-f5bd-4499-8736-ab4bc6336af1/bucket/6b2be4d2-d68d-4a7e-baff-bdb4ab417815.png" alt="ГРАНЬ" className="w-auto h-10 rounded-md" style={{ backgroundColor: '#ffffff', padding: '2px 6px' }} />
         </a>
 
         <ul className="hidden md:flex items-center gap-10 text-sm tracking-wide">
@@ -60,8 +60,8 @@ export function Header() {
           className={cn(
             "hidden md:inline-flex items-center gap-2 text-sm px-5 py-2.5 transition-all duration-300",
             scrolled
-              ? "bg-orange-200 text-foreground border border-orange-200 hover:bg-orange-300 hover:border-orange-300"
-              : "bg-orange-200 text-foreground border border-orange-200 hover:bg-orange-300 hover:border-orange-300",
+              ? "bg-white text-foreground border border-foreground/20 hover:bg-foreground hover:text-white"
+              : "bg-white text-foreground border border-foreground/20 hover:bg-foreground hover:text-white",
           )}
         >
           +7 923 107 21 01
@@ -115,7 +115,7 @@ export function Header() {
 
           <a
             href="tel:+79231072101"
-            className="inline-flex items-center justify-center gap-2 text-sm px-5 py-2.5 bg-orange-200 text-foreground border border-orange-200 hover:bg-orange-300 hover:border-orange-300 transition-all duration-300 mb-4"
+            className="inline-flex items-center justify-center gap-2 text-sm px-5 py-2.5 bg-white text-foreground border border-foreground/20 hover:bg-foreground hover:text-white transition-all duration-300 mb-4"
             onClick={closeMobileMenu}
           >
             +7 923 107 21 01
