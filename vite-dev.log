@@ -11,3 +11,9 @@
 3:47:36 AM [vite] vite.config.ts changed, restarting server...
 3:47:36 AM [vite] (client) page reload index.html
 3:47:36 AM [vite] changed tsconfig file detected: /app/webapp/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+3:47:36 AM [vite] server restarted.
+3:47:44 AM [vite] (client) hmr update /src/index.css
+3:48:40 AM [vite] (client) hmr update /src/components/Hero.tsx, /src/index.css
+3:48:51 AM [vite] (client) page reload index.html
+3:48:52 AM [vite] (client) page reload index.html
