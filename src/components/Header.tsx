@@ -33,7 +33,7 @@ export function Header() {
     >
       <nav className="container mx-auto px-6 flex items-center justify-between md:px-[24]">
         <a href="/" className="flex items-center gap-2 group" onClick={scrollToTop}>
-          <img src="/images/hously-logo.svg" alt="Пространство" width={120} height={32} className="w-auto h-6" />
+          <img src="https://cdn.poehali.dev/projects/bd50632a-f5bd-4499-8736-ab4bc6336af1/bucket/6b2be4d2-d68d-4a7e-baff-bdb4ab417815.png" alt="ГРАНЬ" className="w-auto h-10" />
         </a>
 
         <ul className="hidden md:flex items-center gap-10 text-sm tracking-wide">
@@ -56,7 +56,7 @@ export function Header() {
         </ul>
 
         <a
-          href="#contact"
+          href="tel:+79231072101"
           className={cn(
             "hidden md:inline-flex items-center gap-2 text-sm px-5 py-2.5 transition-all duration-300",
             scrolled
@@ -64,7 +64,7 @@ export function Header() {
               : "bg-white text-foreground border border-foreground/20 hover:bg-foreground hover:text-white",
           )}
         >
-          Связаться
+          +7 923 107 21 01
         </a>
 
         <button
@@ -114,11 +114,11 @@ export function Header() {
           </ul>
 
           <a
-            href="#contact"
+            href="tel:+79231072101"
             className="inline-flex items-center justify-center gap-2 text-sm px-5 py-2.5 bg-white text-foreground border border-foreground/20 hover:bg-foreground hover:text-white transition-all duration-300 mb-4"
             onClick={closeMobileMenu}
           >
-            Связаться
+            +7 923 107 21 01
           </a>
         </div>
       </div>

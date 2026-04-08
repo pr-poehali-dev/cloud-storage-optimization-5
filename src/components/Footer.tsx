@@ -6,7 +6,7 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <a href="/" className="inline-block mb-6">
-              <img src="/images/hously-logo.svg" alt="Пространство" width={120} height={32} className="w-auto h-6" />
+              <img src="https://cdn.poehali.dev/projects/bd50632a-f5bd-4499-8736-ab4bc6336af1/bucket/6b2be4d2-d68d-4a7e-baff-bdb4ab417815.png" alt="ГРАНЬ" className="w-auto h-12" />
             </a>
             <p className="text-muted-foreground leading-relaxed max-w-sm">
               Витражные зимние сады, беседки и стеклянные перегородки. Делаем ваш дом и офис светлее с 2014 года.
@@ -45,13 +45,13 @@ export function Footer() {
             <h4 className="text-sm font-medium mb-4">Связь</h4>
             <ul className="space-y-3 text-sm text-muted-foreground">
               <li>
-                <a href="mailto:hello@prostranstvo.ru" className="hover:text-foreground transition-colors">
-                  hello@prostranstvo.ru
+                <a href="mailto:your@email.ru" className="hover:text-foreground transition-colors">
+                  your@email.ru
                 </a>
               </li>
               <li>
-                <a href="tel:+74951234567" className="hover:text-foreground transition-colors">
-                  +7 (495) 123-45-67
+                <a href="tel:+79231072101" className="hover:text-foreground transition-colors">
+                  +7 923 107 21 01
                 </a>
               </li>
               <li>
@@ -70,7 +70,7 @@ export function Footer() {
 
         {/* Bottom bar */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row md:items-center justify-between gap-4 text-sm text-muted-foreground">
-          <p>© 2025 Студия стеклянных конструкций. Все права защищены.</p>
+          <p>© 2025 Студия ГРАНЬ. Все права защищены.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-foreground transition-colors">
               Политика конфиденциальности
