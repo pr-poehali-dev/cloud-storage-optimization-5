@@ -17,3 +17,16 @@
 3:48:40 AM [vite] (client) hmr update /src/components/Hero.tsx, /src/index.css
 3:48:51 AM [vite] (client) page reload index.html
 3:48:52 AM [vite] (client) page reload index.html
+3:49:17 AM [vite] (client) page reload builds/8af2f50b40066391032f5b8af1a39a065d373c6e/7a965/index.html
+3:49:17 AM [vite] (client) page reload builds/8af2f50b40066391032f5b8af1a39a065d373c6e/7a965/index.html
+3:51:07 AM [vite] (client) hmr update /src/components/Projects.tsx, /src/index.css
+3:51:25 AM [vite] (client) hmr update /src/components/Philosophy.tsx, /src/index.css
+3:51:38 AM [vite] (client) hmr update /src/components/Philosophy.tsx, /src/index.css
+3:51:46 AM [vite] (client) hmr update /src/components/Philosophy.tsx, /src/index.css
+3:52:11 AM [vite] (client) hmr update /src/components/Expertise.tsx, /src/index.css
+3:52:21 AM [vite] (client) hmr update /src/components/Expertise.tsx, /src/index.css
+3:52:33 AM [vite] (client) hmr update /src/components/Expertise.tsx, /src/index.css
+3:53:04 AM [vite] (client) hmr update /src/components/FAQ.tsx, /src/index.css
+3:53:20 AM [vite] (client) hmr update /src/components/CallToAction.tsx, /src/index.css
+3:53:28 AM [vite] (client) hmr update /src/components/Footer.tsx, /src/index.css
+3:53:35 AM [vite] (client) hmr update /src/components/Footer.tsx, /src/index.css
