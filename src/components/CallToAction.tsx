@@ -45,7 +45,7 @@ export function CallToAction() {
           </h2>
 
           <p className="text-primary-foreground/70 text-lg md:text-xl leading-relaxed mb-12 max-w-2xl mx-auto">
-            Выезжаем на замер бесплатно. Рассчитаем стоимость в день обращения. Работаем по Москве и области.
+            Выезжаем на замер бесплатно. Рассчитаем стоимость в день обращения. Работаем по Новосибирску и области.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
