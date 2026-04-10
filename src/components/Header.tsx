@@ -33,7 +33,7 @@ export function Header() {
     >
       <nav className="container mx-auto px-6 flex items-center justify-between md:px-[24]">
         <a href="/" className="flex items-center gap-2 group" onClick={scrollToTop}>
-          <img src="https://cdn.poehali.dev/projects/bd50632a-f5bd-4499-8736-ab4bc6336af1/bucket/6b2be4d2-d68d-4a7e-baff-bdb4ab417815.png" alt="ГРАНЬ" className="w-auto h-10 rounded-md" style={{ backgroundColor: '#ffffff', padding: '2px 6px' }} />
+          <span className="text-white font-semibold text-sm tracking-wide leading-tight">Студия стеклянных<br />конструкций Анны Малькевич</span>
         </a>
 
         <ul className="hidden md:flex items-center gap-10 text-sm tracking-wide">

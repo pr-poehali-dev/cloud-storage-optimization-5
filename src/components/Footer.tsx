@@ -6,7 +6,7 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <a href="/" className="inline-block mb-6">
-              <img src="https://cdn.poehali.dev/projects/bd50632a-f5bd-4499-8736-ab4bc6336af1/bucket/6b2be4d2-d68d-4a7e-baff-bdb4ab417815.png" alt="ГРАНЬ" className="w-auto h-12" />
+              <span className="text-foreground font-semibold text-base tracking-wide leading-tight">Студия стеклянных<br />конструкций Анны Малькевич</span>
             </a>
             <p className="text-muted-foreground leading-relaxed max-w-sm">
               Витражные зимние сады, беседки и стеклянные перегородки в Новосибирске. Делаем ваш дом и офис светлее с 2014 года.
@@ -70,7 +70,7 @@ export function Footer() {
 
         {/* Bottom bar */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row md:items-center justify-between gap-4 text-sm text-muted-foreground">
-          <p>© 2025 Студия стеклянных конструкций ГРАНЬ, Новосибирск. Все права защищены.</p>
+          <p>© 2025 Студия стеклянных конструкций Анны Малькевич, Новосибирск. Все права защищены.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-foreground transition-colors">
               Политика конфиденциальности
